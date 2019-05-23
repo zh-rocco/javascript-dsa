@@ -8,9 +8,9 @@
 
 ![big-o-graph](./assets/big-o-graph.png)
 
-<center>
+<div align="center">
   <a href="http://bigocheatsheet.com/">Big-O Algorithm Complexity Cheat Sheet</a>
-</center>
+</div>
 
 ### Some common Big-O's
 
