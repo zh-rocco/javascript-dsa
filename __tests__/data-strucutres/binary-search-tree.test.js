@@ -1,4 +1,4 @@
-import BinarySearchTree from '../../lib/data-structures/binary-search-tree'
+import BinarySearchTree from '../../data-structures/binary-search-tree'
 
 describe('BinarySearchTree', () => {
   test('new', () => {

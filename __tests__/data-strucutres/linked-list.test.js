@@ -1,4 +1,4 @@
-import LinkedList from '../../lib/data-structures/linked-list'
+import LinkedList from '../../data-structures/linked-list'
 
 describe('LinkedList', () => {
   test('new', () => {

@@ -1,4 +1,4 @@
-import HashTable from '../../lib/data-structures/hash-table'
+import HashTable from '../../data-structures/hash-table'
 
 describe('HashTable', () => {
   test('new', () => {

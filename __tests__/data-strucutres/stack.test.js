@@ -1,4 +1,4 @@
-import Stack from '../../lib/data-structures/stack'
+import Stack from '../../data-structures/stack'
 
 describe('Stack', () => {
   test('new', () => {

@@ -1,4 +1,4 @@
-import Queue from '../../lib/data-structures/queue'
+import Queue from '../../data-structures/queue'
 
 describe('Queue', () => {
   test('new', () => {

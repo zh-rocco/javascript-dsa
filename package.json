@@ -4,7 +4,7 @@
   "description": "",
   "scripts": {
     "test": "jest",
-    "lint": "eslint --fix lib __tests__ *.config.js"
+    "lint": "eslint --fix algorithms data-structures __tests__ *.config.js"
   },
   "repository": {
     "type": "git",

@@ -1,4 +1,4 @@
-import Tree from '../../lib/data-structures/tree'
+import Tree from '../../data-structures/tree'
 
 describe('Tree', () => {
   test('new', () => {

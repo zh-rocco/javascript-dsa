@@ -1,4 +1,4 @@
-import List from '../../lib/data-structures/list'
+import List from '../../data-structures/list'
 
 describe('List', () => {
   test('new', () => {

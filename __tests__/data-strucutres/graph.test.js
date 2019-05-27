@@ -1,4 +1,4 @@
-import Graph from '../../lib/data-structures/graph'
+import Graph from '../../data-structures/graph'
 
 describe('Graph', () => {
   test('new', () => {
