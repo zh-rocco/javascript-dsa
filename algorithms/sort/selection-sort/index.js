@@ -1,6 +1,6 @@
-const { swap } = require('../utils')
+const { swap } = require('../../utils')
 
-module.exports = function bubbleSort (arr = []) {
+module.exports = function selectionSort (arr = []) {
   for (let outer = 0; outer < arr.length; outer++) {
     for (let inner = outer + 1; inner < arr.length; inner++) {
       if (arr[outer] > arr[inner]) {

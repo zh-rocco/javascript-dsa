@@ -1,4 +1,4 @@
-const { swap } = require('../utils')
+const { swap } = require('../../utils')
 
 function partition (arr, left, right) {
   const pivotValue = arr[right]
