@@ -2,14 +2,14 @@
 
 ## Source Codes
 
-- [List](./lib/data-structures/list.js)
-- [Stack](./lib/data-structures/stack.js)
-- [Queue](./lib/data-structures/queue.js)
-- [LinkedList](./lib/data-structures/linked-list.js)
-- [HashTable](./lib/data-structures/hash-table.js)
-- [Graph](./lib/data-structures/graph.js)
-- [Tree](./lib/data-structures/tree.js)
-- [BinarySearchTree](./lib/data-structures/binary-search-tree.js)
+- [List](./list/)
+- [Stack](./stack/)
+- [Queue](./queue/)
+- [LinkedList](./linked-list/)
+- [HashTable](./hash-table/)
+- [Graph](./graph/)
+- [Tree](./tree/)
+- [BinarySearchTree](./binary-search-tree/)
 
 ## Time complexity of data structures
 
@@ -37,3 +37,4 @@
 
 - [itsy-bitsy-data-structures](https://github.com/jamiebuilds/itsy-bitsy-data-structures)
 - [Data Structures and Algorithms with JavaScript](https://book.douban.com/subject/25945449/)
+- [Data structure - From Wikipedia, the free encyclopedia](https://en.wikipedia.org/wiki/Data_structure)

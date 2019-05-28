@@ -28,5 +28,5 @@
 
 ## TOC
 
-- [Data Structures](./data-structures.md)
-- [Algorithms](./algorithms.md)
+- [Data Structures](./data-structures/)
+- [Algorithms](./algorithms/)
