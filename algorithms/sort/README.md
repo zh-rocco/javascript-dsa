@@ -5,8 +5,11 @@
 | Built-In Sort       | -                                 | -                | ✔️        | [Link](./built-in-sort/)       |
 | Bubble Sort         | `O(N^2)` / `O(N^2)`               | `O(1)`           | ✔️        | [Link](./bubble-sort/)         |
 | Selection Sort      | `O(N^2)` / `O(N^2)`               | `O(1)`           | ❌        | [Link](./selection-sort/)      |
+| Insertion Sort      | `O(N^2)` / `O(N^2)`               | `O(1)`           | ✔️        | [Link](./insertion-sort/)      |
 | Quick Sort          | `O(N * logN)` / `O(N^2)`          | `O(logN)`        | ❌        | [Link](./quick-sort/)          |
 | In Place Quick Sort | `O(N * logN)` / `O(N^2)`          | `O(1)`           | ❌        | [Link](./in-place-quick-sort/) |
+| Merge Sort          | `O(N * logN)`                     | `O(N)`           | ✔️        | [Link](./merge-sort/)          |
+| Bucket Sort         | `O(N + K)` / `O(N^2)`             | `O(N*K)`         | ✔️        | [Link](./bucket-sort/)         |
 
 ## Reference
 
