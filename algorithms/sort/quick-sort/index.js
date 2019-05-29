@@ -1,5 +1,5 @@
 module.exports = function quickSort (arr = []) {
-  if (!arr.length) return []
+  if (arr.length < 2) return arr
 
   const left = []
   const right = []
