@@ -34,8 +34,6 @@ module.exports = function bucketSort (arr = [], num = 2) {
     }
   }
 
-  console.log(buckets, negativeBuckets)
-
   const wrapBuckets = []
 
   for (let i = negativeBuckets.length; i > -1; i--) {
