@@ -1,5 +1,5 @@
 module.exports = {
-  verbose: false,
+  verbose: true,
   rootDir: '__tests__',
   transformIgnorePatterns: ['<rootDir>/node_modules/']
 }

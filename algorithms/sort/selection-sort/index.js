@@ -11,6 +11,8 @@ module.exports = function selectionSort (arr = []) {
     }
     swap(arr, outer, min)
   }
+
+  return arr
 }
 
 // module.exports = function selectionSort (arr = []) {

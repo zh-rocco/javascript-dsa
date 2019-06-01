@@ -10,4 +10,6 @@ module.exports = function InsertionSort (arr = []) {
       inner--
     }
   }
+
+  return arr
 }
