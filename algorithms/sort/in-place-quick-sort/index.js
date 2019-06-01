@@ -17,9 +17,11 @@ function partition (arr, left, right) {
 }
 
 module.exports = function inPlaceQuickSort (arr = [], left = 0, right = arr.length - 1) {
-  if (left >= right) return
+  if (left > right) return []
 
   const pointer = partition(arr, left, right)
   inPlaceQuickSort(arr, left, pointer - 1)
   inPlaceQuickSort(arr, pointer + 1, right)
+
+  return arr
 }
