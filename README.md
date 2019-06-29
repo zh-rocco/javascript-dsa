@@ -1,5 +1,7 @@
 # JavaScript Data Structures & Algorithms
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/zh-rocco/javascript-dsa.svg)](https://greenkeeper.io/)
+
 - **Time complexity** refers to the total count of operations an algorithm will perform given a set of items.
 
 - **Space complexity** refers to the total memory an algorithm will take up while running given a set of items.
